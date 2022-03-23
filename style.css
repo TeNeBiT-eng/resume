@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+    margin: 11px;
+}
+
+table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 11px;
+    border-color: black;
+}
